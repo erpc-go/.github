@@ -1,2 +1,1 @@
-# overview
-erpc organization overview
+# ERPC
